@@ -11,10 +11,14 @@
     "clear B3",
     "clear C2",
     "clear D1",
+<<<<<<< HEAD
     "clear E1",
     "clear A2",
     "clear B1",
     "clear B2",
     "clear C1"
+=======
+    "clear E1"
+>>>>>>> 1e7825ab14ff5fe64e7091f40fa423fbae1b37e8
   ]
 }
