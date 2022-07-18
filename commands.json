@@ -21,10 +21,14 @@
     "flag C8",
     "clear D8",
     "clear E8",
+<<<<<<< HEAD
     "clear F7",
     "clear F8",
     "clear G7",
     "clear G8",
     "flag H7"
+=======
+    "clear F7"
+>>>>>>> 47bc2dd7fb90b6ee9139a70d608bf0cc5930a5ca
   ]
 }
